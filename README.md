@@ -21,9 +21,9 @@
 * 要件定義・設計
 * TypeScriptを用いたLambda API実装
 * フロントサイド実装
-* LINEメッセージングAPIを用いたプッシュ通知機能
-* LINE APIを用いたLINE顧客情報連携、etc.
-### アクティブユーザー200万人のWebのECサイト、iOS・AndroidのECアプリからのRuby on Railsで作成された共通ログイン基盤の開発・保守
+* LINEメッセージングAPIを用いた応答・プッシュメッセージ機能実装
+* LINE APIを用いたLINE顧客情報連携, etc.
+### アクティブユーザー200万人以上のWebのECサイト、iOS・AndroidのECアプリからのRuby on Railsで作成された共通ログイン基盤の開発・保守
 
 ### 使用技術
 
@@ -34,13 +34,13 @@
   * S3, etc.
 * Docker
 * jQuery
-* RSpec,etc.
+* RSpec, etc.
 ### 実績
 
-* OAuth2を用いたソーシャルログインを実装。
+* OAuth2を用いたソーシャルログイン実装
   * Amazon・Apple・LINE・楽天ログイン
 * OAuth2 サービスプロバイダ実装
-  * サードパーティアプリにECサイト側で取得した顧客情報を提供する機能実装。
+  * サードパーティアプリにECサイト側で取得した顧客情報を提供する機能実装
 * 運用保守
   * 顧客問い合わせ対応、バグ原因調査、ログ解析、etc.
 
