@@ -22,7 +22,7 @@
 * TypeScriptを用いたLambda API実装
 * フロントサイド実装
 * LINEメッセージングAPIを用いた応答・プッシュメッセージ機能実装
-* LINE APIを用いたLINE顧客情報連携, etc.
+* LINE APIを用いたLINEユーザー情報連携実装, etc.
 ### アクティブユーザー200万人以上のWebのECサイト、iOS・AndroidのECアプリからのRuby on Railsで作成された共通ログイン基盤の開発・保守
 
 ### 使用技術
