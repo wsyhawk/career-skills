@@ -9,7 +9,7 @@
   * DynamoDB
   * Lambda
   * S3, etc.
-* serverless framework
+* ServerlessFramework
 * Nuxt.js
 * Vue.js
 * Vuetify
@@ -22,7 +22,7 @@
 * TypeScriptを用いたLambda API実装
 * フロントサイド実装
 * LINEメッセージングAPIを用いたプッシュ通知機能
-* LINE APIを用いたLINE顧客情報連携,etc.
+* LINE APIを用いたLINE顧客情報連携、etc.
 ### アクティブユーザー200万人のWebのECサイト、iOS・AndroidのECアプリからのRuby on Railsで作成された共通ログイン基盤の開発・保守
 
 ### 使用技術
@@ -40,7 +40,7 @@
 * OAuth2を用いたソーシャルログインを実装。
   * Amazon・Apple・LINE・楽天ログイン
 * OAuth2 サービスプロバイダ実装
-  * サードパーティアプリにEC側で取得した顧客情報を提供する機能実装。
+  * サードパーティアプリにECサイト側で取得した顧客情報を提供する機能実装。
 * 運用保守
   * 顧客問い合わせ対応、バグ原因調査、ログ解析、etc.
 
